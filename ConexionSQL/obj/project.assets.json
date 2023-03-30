@@ -8,19 +8,19 @@
     "net7.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aguil\\.nuget\\packages\\": {}
+    "C:\\Users\\zaval\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aguil\\OneDrive\\gitHub\\prueba3\\ConexionSQL\\ConexionSQL.csproj",
+      "projectUniqueName": "C:\\Users\\zaval\\Source\\Repos\\prueba3\\ConexionSQL\\ConexionSQL.csproj",
       "projectName": "ConexionSQL",
-      "projectPath": "C:\\Users\\aguil\\OneDrive\\gitHub\\prueba3\\ConexionSQL\\ConexionSQL.csproj",
-      "packagesPath": "C:\\Users\\aguil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aguil\\OneDrive\\gitHub\\prueba3\\ConexionSQL\\obj\\",
+      "projectPath": "C:\\Users\\zaval\\Source\\Repos\\prueba3\\ConexionSQL\\ConexionSQL.csproj",
+      "packagesPath": "C:\\Users\\zaval\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zaval\\Source\\Repos\\prueba3\\ConexionSQL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aguil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\zaval\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
