@@ -1,0 +1,7 @@
+C:\Users\zaval\OneDrive\Escritorio\ConexionSQL\ConexionSQL\ConexionSQL\obj\Debug\net7.0-windows\ConexionSQL.csproj.AssemblyReference.cache
+C:\Users\zaval\OneDrive\Escritorio\ConexionSQL\ConexionSQL\ConexionSQL\obj\Debug\net7.0-windows\ConexionSQL.Form1.resources
+C:\Users\zaval\OneDrive\Escritorio\ConexionSQL\ConexionSQL\ConexionSQL\obj\Debug\net7.0-windows\ConexionSQL.csproj.GenerateResource.cache
+C:\Users\zaval\OneDrive\Escritorio\ConexionSQL\ConexionSQL\ConexionSQL\obj\Debug\net7.0-windows\ConexionSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaval\OneDrive\Escritorio\ConexionSQL\ConexionSQL\ConexionSQL\obj\Debug\net7.0-windows\ConexionSQL.AssemblyInfoInputs.cache
+C:\Users\zaval\OneDrive\Escritorio\ConexionSQL\ConexionSQL\ConexionSQL\obj\Debug\net7.0-windows\ConexionSQL.AssemblyInfo.cs
+C:\Users\zaval\OneDrive\Escritorio\ConexionSQL\ConexionSQL\ConexionSQL\obj\Debug\net7.0-windows\ConexionSQL.csproj.CoreCompileInputs.cache
