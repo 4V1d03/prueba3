@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aguil\\Desktop\\ConexionSQL\\ConexionSQL\\ConexionSQL.csproj": {}
+    "C:\\Users\\aguil\\OneDrive\\gitHub\\prueba3\\ConexionSQL\\ConexionSQL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aguil\\Desktop\\ConexionSQL\\ConexionSQL\\ConexionSQL.csproj": {
+    "C:\\Users\\aguil\\OneDrive\\gitHub\\prueba3\\ConexionSQL\\ConexionSQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aguil\\Desktop\\ConexionSQL\\ConexionSQL\\ConexionSQL.csproj",
+        "projectUniqueName": "C:\\Users\\aguil\\OneDrive\\gitHub\\prueba3\\ConexionSQL\\ConexionSQL.csproj",
         "projectName": "ConexionSQL",
-        "projectPath": "C:\\Users\\aguil\\Desktop\\ConexionSQL\\ConexionSQL\\ConexionSQL.csproj",
+        "projectPath": "C:\\Users\\aguil\\OneDrive\\gitHub\\prueba3\\ConexionSQL\\ConexionSQL.csproj",
         "packagesPath": "C:\\Users\\aguil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aguil\\Desktop\\ConexionSQL\\ConexionSQL\\obj\\",
+        "outputPath": "C:\\Users\\aguil\\OneDrive\\gitHub\\prueba3\\ConexionSQL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aguil\\AppData\\Roaming\\NuGet\\NuGet.Config",
